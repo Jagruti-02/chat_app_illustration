@@ -56,6 +56,8 @@ body {
   gap: 100px;
   padding-inline: 2rem;
   height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 .mobile {
